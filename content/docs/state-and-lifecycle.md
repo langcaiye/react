@@ -8,7 +8,7 @@ next: handling-events.html
 ---
 
 生命周期图解
-![React 生命周期图解](https://upload-images.jianshu.io/upload_images/4118241-d979d05af0b7d4db.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/488/format/webp)
+![React 生命周期图解](https://camo.githubusercontent.com/050ee86bb3dd008ed8e70e61e1602e4eef308edc/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f343131383234312d643937396430356166306237643464622e706e673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f3438382f666f726d61742f77656270)
 
 参考[该例子](/docs/rendering-elements.html#更新元素渲染)。
 
